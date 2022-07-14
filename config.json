@@ -1,0 +1,16 @@
+{
+  "ownerNumber": ["6288222901723@s.whatsapp.net"],
+  "ownerName": ["SatWeb"],
+  "botName": "SatWeb BOT",
+  "youtubeOwner": "https://youtube.com/c/SatWeb",
+  "donasiDana": "088222901723",
+  "donasiGopay": "088222901723",
+  "sessionName": "session",
+  "pathimg": "./media/hinata.jpg",
+  "gamewaktu": 90,
+  "limitCount": 25,
+  "gcount": {
+	"prem": 35,
+	"user": 15
+  }
+}
