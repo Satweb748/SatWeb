@@ -1,14 +1,10 @@
 # SatWeb
-This is my repository in github!
+SatWeb BOT WhatsApp 
 
-You can see our various projects here, we will be uploading some of our projects in a while!
+My Project BOT WhatsApp
 
 ------------- MY WEBSITE ---------------------
-https://satrio.epizy.com
+https://satweb.ga
 
--------------- FORUM WRP ------------------------
-https://satrio.epizy.com/Forum
-
--------------- SOCIAL MEDIA ---------------------
-
-https://
+-------------- TANKS TO ---------------------
+- TANKS TO ALL
